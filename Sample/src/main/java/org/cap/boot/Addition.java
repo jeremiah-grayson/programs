@@ -1,6 +1,6 @@
 package org.cap.boot;
 
-public class addition 
+public class Addition 
 {
 		int a=10;
 		int b=20;
@@ -13,7 +13,7 @@ public class addition
 		}
 		public static void main(String args[])
 		{
-			addition a=new addition();
+			Addition a=new Addition();
 			a.add();
 		}
 	
